@@ -8,4 +8,4 @@ The introductory project for the [Deep Learning Foundations Nanodegree program](
 
 This project is relatively minimal, but it requires Python 3 (Preferably as distributed by [Anaconda](https://www.continuum.io/downloads)), as well as a few additional packages that can be installed via:
 
-        `conda install numpy matplotlib pandas jupyter notebook`
+        conda install numpy matplotlib pandas jupyter notebook
